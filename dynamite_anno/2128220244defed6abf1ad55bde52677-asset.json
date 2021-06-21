@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2128220244defed6abf1ad55bde52677",
+        "name": "dynamite_1276.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_1276.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tvemappG4",
+            "type": "RECTANGLE",
+            "tags": [
+                "RM"
+            ],
+            "boundingBox": {
+                "height": 221.5129438214463,
+                "width": 173.03290851955308,
+                "left": 903.9155027932961,
+                "top": 576.4623343920849
+            },
+            "points": [
+                {
+                    "x": 903.9155027932961,
+                    "y": 576.4623343920849
+                },
+                {
+                    "x": 1076.9484113128492,
+                    "y": 576.4623343920849
+                },
+                {
+                    "x": 1076.9484113128492,
+                    "y": 797.9752782135313
+                },
+                {
+                    "x": 903.9155027932961,
+                    "y": 797.9752782135313
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

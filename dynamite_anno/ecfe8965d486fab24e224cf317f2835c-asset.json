@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ecfe8965d486fab24e224cf317f2835c",
+        "name": "dynamite_2228.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_2228.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "53Dq04PLc",
+            "type": "RECTANGLE",
+            "tags": [
+                "V"
+            ],
+            "boundingBox": {
+                "height": 377.1840644882111,
+                "width": 366.2489905196629,
+                "left": 811.6366748595506,
+                "top": 226.87385970247007
+            },
+            "points": [
+                {
+                    "x": 811.6366748595506,
+                    "y": 226.87385970247007
+                },
+                {
+                    "x": 1177.8856653792134,
+                    "y": 226.87385970247007
+                },
+                {
+                    "x": 1177.8856653792134,
+                    "y": 604.0579241906812
+                },
+                {
+                    "x": 811.6366748595506,
+                    "y": 604.0579241906812
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

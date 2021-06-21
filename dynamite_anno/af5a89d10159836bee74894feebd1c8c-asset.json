@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "af5a89d10159836bee74894feebd1c8c",
+        "name": "dynamite_1345.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_1345.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VBS45Y36V",
+            "type": "RECTANGLE",
+            "tags": [
+                "RM"
+            ],
+            "boundingBox": {
+                "height": 217.80980862869657,
+                "width": 162.80892108938548,
+                "left": 887.611906424581,
+                "top": 306.6648060853628
+            },
+            "points": [
+                {
+                    "x": 887.611906424581,
+                    "y": 306.6648060853628
+                },
+                {
+                    "x": 1050.4208275139665,
+                    "y": 306.6648060853628
+                },
+                {
+                    "x": 1050.4208275139665,
+                    "y": 524.4746147140594
+                },
+                {
+                    "x": 887.611906424581,
+                    "y": 524.4746147140594
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

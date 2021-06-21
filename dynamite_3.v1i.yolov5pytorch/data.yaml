@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 7
+names: ['J-HOPE', 'JIMIN', 'JIN', 'KOOK', 'RM', 'SUGA', 'V']

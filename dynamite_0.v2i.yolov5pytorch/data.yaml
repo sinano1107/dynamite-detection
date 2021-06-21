@@ -1,0 +1,5 @@
+train: /content/dynamite_0.v2i.yolov5pytorch/train/images
+val: /content/dynamite_0.v2i.yolov5pytorch/valid/images
+
+nc: 7
+names: ["J-HOPE", "JIMIN", "JIN", "KOOK", "RM", "SUGA", "V"]

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "79cffa258867fefa84e674be856c77f6",
+        "name": "dynamite_0985.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_0985.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VG4vfvCar",
+            "type": "RECTANGLE",
+            "tags": [
+                "KOOK"
+            ],
+            "boundingBox": {
+                "height": 217.24167682052754,
+                "width": 212.05519543343652,
+                "left": 977.8445481811145,
+                "top": 357.49382704988534
+            },
+            "points": [
+                {
+                    "x": 977.8445481811145,
+                    "y": 357.49382704988534
+                },
+                {
+                    "x": 1189.8997436145512,
+                    "y": 357.49382704988534
+                },
+                {
+                    "x": 1189.8997436145512,
+                    "y": 574.7355038704129
+                },
+                {
+                    "x": 977.8445481811145,
+                    "y": 574.7355038704129
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

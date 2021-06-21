@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "55765a054f587059c483b97482d9ed3c",
+        "name": "dynamite_2163.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_2163.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JIDUAR_eF",
+            "type": "RECTANGLE",
+            "tags": [
+                "V"
+            ],
+            "boundingBox": {
+                "height": 94.33282361059132,
+                "width": 85.9867889747191,
+                "left": 970.2453476123595,
+                "top": 597.4009987836827
+            },
+            "points": [
+                {
+                    "x": 970.2453476123595,
+                    "y": 597.4009987836827
+                },
+                {
+                    "x": 1056.2321365870787,
+                    "y": 597.4009987836827
+                },
+                {
+                    "x": 1056.2321365870787,
+                    "y": 691.733822394274
+                },
+                {
+                    "x": 970.2453476123595,
+                    "y": 691.733822394274
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1460bb587097409b0d19360661df8737",
+        "name": "dynamite_4157.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_4157.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Gax993Vga",
+            "type": "RECTANGLE",
+            "tags": [
+                "JIMIN"
+            ],
+            "boundingBox": {
+                "height": 237.85305680899785,
+                "width": 262.2838112269641,
+                "left": 836.077685499515,
+                "top": 350.22307718211204
+            },
+            "points": [
+                {
+                    "x": 836.077685499515,
+                    "y": 350.22307718211204
+                },
+                {
+                    "x": 1098.3614967264791,
+                    "y": 350.22307718211204
+                },
+                {
+                    "x": 1098.3614967264791,
+                    "y": 588.0761339911099
+                },
+                {
+                    "x": 836.077685499515,
+                    "y": 588.0761339911099
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d29cc96340599a57593e2a648191316c",
+        "name": "dynamite_1287.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_1287.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SSKAl54sW",
+            "type": "RECTANGLE",
+            "tags": [
+                "RM"
+            ],
+            "boundingBox": {
+                "height": 193.89233204289886,
+                "width": 144.341218575419,
+                "left": 943.4998690642458,
+                "top": 353.9392599481237
+            },
+            "points": [
+                {
+                    "x": 943.4998690642458,
+                    "y": 353.9392599481237
+                },
+                {
+                    "x": 1087.8410876396647,
+                    "y": 353.9392599481237
+                },
+                {
+                    "x": 1087.8410876396647,
+                    "y": 547.8315919910226
+                },
+                {
+                    "x": 943.4998690642458,
+                    "y": 547.8315919910226
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c8df97d8b040f4bc5da7f20039b2fd5c",
+        "name": "dynamite_1863.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_1863.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "L8TNVdbvK",
+            "type": "RECTANGLE",
+            "tags": [
+                "JIMIN"
+            ],
+            "boundingBox": {
+                "height": 534.1522374541811,
+                "width": 454.6784654329609,
+                "left": 663.9139315642458,
+                "top": 158.93536486161156
+            },
+            "points": [
+                {
+                    "x": 663.9139315642458,
+                    "y": 158.93536486161156
+                },
+                {
+                    "x": 1118.5923969972066,
+                    "y": 158.93536486161156
+                },
+                {
+                    "x": 1118.5923969972066,
+                    "y": 693.0876023157927
+                },
+                {
+                    "x": 663.9139315642458,
+                    "y": 693.0876023157927
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

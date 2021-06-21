@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "570ddc362ba210a9d9b5fdaaac786c58",
+        "name": "dynamite_2318.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_2318.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "RigsYMSBZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "RM"
+            ],
+            "boundingBox": {
+                "height": 350.7914834393713,
+                "width": 252.5023261938202,
+                "left": 835.2612798455056,
+                "top": 204.57806067552397
+            },
+            "points": [
+                {
+                    "x": 835.2612798455056,
+                    "y": 204.57806067552397
+                },
+                {
+                    "x": 1087.7636060393259,
+                    "y": 204.57806067552397
+                },
+                {
+                    "x": 1087.7636060393259,
+                    "y": 555.3695441148952
+                },
+                {
+                    "x": 835.2612798455056,
+                    "y": 555.3695441148952
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

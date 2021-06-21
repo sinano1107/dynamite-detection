@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9b37a2f31dfce6dc2ade70257895c858",
+        "name": "dynamite_3284.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_3284.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BGCivp-Ko",
+            "type": "RECTANGLE",
+            "tags": [
+                "JIN"
+            ],
+            "boundingBox": {
+                "height": 73.13121295797414,
+                "width": 60.63697259941804,
+                "left": 701.0899612027158,
+                "top": 526.7743551320043
+            },
+            "points": [
+                {
+                    "x": 701.0899612027158,
+                    "y": 526.7743551320043
+                },
+                {
+                    "x": 761.7269338021338,
+                    "y": 526.7743551320043
+                },
+                {
+                    "x": 761.7269338021338,
+                    "y": 599.9055680899785
+                },
+                {
+                    "x": 701.0899612027158,
+                    "y": 599.9055680899785
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "672e60663bbfee273c471985ac2a81c5",
+        "name": "dynamite_2040.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_2040.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PZYSouKPy",
+            "type": "RECTANGLE",
+            "tags": [
+                "V"
+            ],
+            "boundingBox": {
+                "height": 560.5455038324739,
+                "width": 532.7669780027933,
+                "left": 768.0693959497206,
+                "top": 151.27315452985212
+            },
+            "points": [
+                {
+                    "x": 768.0693959497206,
+                    "y": 151.27315452985212
+                },
+                {
+                    "x": 1300.836373952514,
+                    "y": 151.27315452985212
+                },
+                {
+                    "x": 1300.836373952514,
+                    "y": 711.818658362326
+                },
+                {
+                    "x": 768.0693959497206,
+                    "y": 711.818658362326
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

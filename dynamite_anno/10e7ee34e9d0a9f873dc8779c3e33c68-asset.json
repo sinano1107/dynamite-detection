@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "10e7ee34e9d0a9f873dc8779c3e33c68",
+        "name": "dynamite_1283.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_1283.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ilZfQV19Q",
+            "type": "RECTANGLE",
+            "tags": [
+                "RM"
+            ],
+            "boundingBox": {
+                "height": 204.91478618523234,
+                "width": 164.42807262569832,
+                "left": 941.811845321229,
+                "top": 397.27213379876986
+            },
+            "points": [
+                {
+                    "x": 941.811845321229,
+                    "y": 397.27213379876986
+                },
+                {
+                    "x": 1106.2399179469273,
+                    "y": 397.27213379876986
+                },
+                {
+                    "x": 1106.2399179469273,
+                    "y": 602.1869199840022
+                },
+                {
+                    "x": 941.811845321229,
+                    "y": 602.1869199840022
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

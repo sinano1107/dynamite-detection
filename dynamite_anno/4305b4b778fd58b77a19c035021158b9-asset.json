@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4305b4b778fd58b77a19c035021158b9",
+        "name": "dynamite_0631.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_0631.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BepKW-2rm",
+            "type": "RECTANGLE",
+            "tags": [
+                "KOOK"
+            ],
+            "boundingBox": {
+                "height": 605.7001370771216,
+                "width": 1041.5283354295666,
+                "left": 211.33846507352942,
+                "top": 129.87883905533258
+            },
+            "points": [
+                {
+                    "x": 211.33846507352942,
+                    "y": 129.87883905533258
+                },
+                {
+                    "x": 1252.8668005030959,
+                    "y": 129.87883905533258
+                },
+                {
+                    "x": 1252.8668005030959,
+                    "y": 735.5789761324542
+                },
+                {
+                    "x": 211.33846507352942,
+                    "y": 735.5789761324542
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

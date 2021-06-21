@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "112e75e40e5a481d972ba957ce313664",
+        "name": "dynamite_2532.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_2532.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ItsSNr1TC",
+            "type": "RECTANGLE",
+            "tags": [
+                "SUGA"
+            ],
+            "boundingBox": {
+                "height": 821.1634251029192,
+                "width": 1087.2826106039327,
+                "left": 692.3096471207865,
+                "top": 128.60898320546409
+            },
+            "points": [
+                {
+                    "x": 692.3096471207865,
+                    "y": 128.60898320546409
+                },
+                {
+                    "x": 1779.592257724719,
+                    "y": 128.60898320546409
+                },
+                {
+                    "x": 1779.592257724719,
+                    "y": 949.7724083083833
+                },
+                {
+                    "x": 692.3096471207865,
+                    "y": 949.7724083083833
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

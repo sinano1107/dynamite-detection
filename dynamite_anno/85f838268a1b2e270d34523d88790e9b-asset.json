@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "85f838268a1b2e270d34523d88790e9b",
+        "name": "dynamite_3876.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_3876.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tz4NQKKF_",
+            "type": "RECTANGLE",
+            "tags": [
+                "J-HOPE"
+            ],
+            "boundingBox": {
+                "height": 487.2702847184806,
+                "width": 445.6601979267701,
+                "left": 768.0459656886518,
+                "top": 177.7796252020474
+            },
+            "points": [
+                {
+                    "x": 768.0459656886518,
+                    "y": 177.7796252020474
+                },
+                {
+                    "x": 1213.706163615422,
+                    "y": 177.7796252020474
+                },
+                {
+                    "x": 1213.706163615422,
+                    "y": 665.049909920528
+                },
+                {
+                    "x": 768.0459656886518,
+                    "y": 665.049909920528
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

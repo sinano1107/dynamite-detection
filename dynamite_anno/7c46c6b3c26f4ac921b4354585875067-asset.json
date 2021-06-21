@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7c46c6b3c26f4ac921b4354585875067",
+        "name": "dynamite_4800.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_4800.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lixsho5-S",
+            "type": "RECTANGLE",
+            "tags": [
+                "JIN"
+            ],
+            "boundingBox": {
+                "height": 273.114851326778,
+                "width": 238.00553922162948,
+                "left": 507.0322350872939,
+                "top": 413.0128973599138
+            },
+            "points": [
+                {
+                    "x": 507.0322350872939,
+                    "y": 413.0128973599138
+                },
+                {
+                    "x": 745.0377743089233,
+                    "y": 413.0128973599138
+                },
+                {
+                    "x": 745.0377743089233,
+                    "y": 686.1277486866918
+                },
+                {
+                    "x": 507.0322350872939,
+                    "y": 686.1277486866918
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

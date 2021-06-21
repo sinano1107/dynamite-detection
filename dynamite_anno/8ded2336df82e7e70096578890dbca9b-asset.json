@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8ded2336df82e7e70096578890dbca9b",
+        "name": "dynamite_3990.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_3990.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TR700RsOu",
+            "type": "RECTANGLE",
+            "tags": [
+                "RM"
+            ],
+            "boundingBox": {
+                "height": 486.1595669450431,
+                "width": 507.5180346750727,
+                "left": 743.0519519883608,
+                "top": 310.36441355738145
+            },
+            "points": [
+                {
+                    "x": 743.0519519883608,
+                    "y": 310.36441355738145
+                },
+                {
+                    "x": 1250.5699866634336,
+                    "y": 310.36441355738145
+                },
+                {
+                    "x": 1250.5699866634336,
+                    "y": 796.5239805024246
+                },
+                {
+                    "x": 743.0519519883608,
+                    "y": 796.5239805024246
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

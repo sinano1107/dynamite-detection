@@ -1,0 +1,5 @@
+train: /content/dynamite_data/train/images
+val: /content/dynamite_data/valid/images
+
+nc: 7
+names: ["J-HOPE", "JIMIN", "JIN", "KOOK", "RM", "SUGA", "V"]

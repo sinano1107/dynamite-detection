@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1d2b618853b7032da2e02327b709c39c",
+        "name": "dynamite_5340.jpg",
+        "path": "file:/Users/choumasateru/programming/dynamite/dynamite_imgs/dynamite_5340.jpg",
+        "size": {
+            "width": 1920,
+            "height": 1080
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "N2_DOamV_",
+            "type": "RECTANGLE",
+            "tags": [
+                "V"
+            ],
+            "boundingBox": {
+                "height": 426.33218073341527,
+                "width": 435.42640068770226,
+                "left": 684.3238015776699,
+                "top": 257.1928724995501
+            },
+            "points": [
+                {
+                    "x": 684.3238015776699,
+                    "y": 257.1928724995501
+                },
+                {
+                    "x": 1119.750202265372,
+                    "y": 257.1928724995501
+                },
+                {
+                    "x": 1119.750202265372,
+                    "y": 683.5250532329654
+                },
+                {
+                    "x": 684.3238015776699,
+                    "y": 683.5250532329654
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
